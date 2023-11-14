@@ -1,7 +1,6 @@
 /*
 Portfolio Project 2 Option 1
 Programmer: Olmedo, Johnny
-CSC 320
 Submission date: 03/13/2022 
 This is the auto mile class that adds, deletes, and updates attribute of automobile inventory
 */
