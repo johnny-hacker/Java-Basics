@@ -1,0 +1,24 @@
+
+----------------
+  STUDENT INFO
+----------------
+Student #1
+Student GPA: 3.4
+Student Name: Alex Swineheart
+Student Address: 789 official street
+
+Student #2
+Student GPA: 4.0
+Student Name: Johnny Olmedo
+Student Address: PSC 103 Box 2809
+
+Student #3
+Student GPA: 4.5
+Student Name: Kelly Bluebook
+Student Address: 567 yankee way
+
+Student #4
+Student GPA: 3.0
+Student Name: Zarick Johnson
+Student Address: 678 Candy Lane
+
