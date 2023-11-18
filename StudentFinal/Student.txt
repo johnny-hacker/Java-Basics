@@ -1,0 +1,24 @@
+
+----------------
+  STUDENT INFO
+----------------
+Student #1
+Student GPA: 3.0
+Student Name: Brandy
+Student Address: 234 Test Lane
+
+Student #2
+Student GPA: 3.3
+Student Name: Jenny
+Student Address: 456 Fairtale Lane
+
+Student #3
+Student GPA: 4.4
+Student Name: Nate
+Student Address: 678 Test Lane
+
+Student #4
+Student GPA: 4.0
+Student Name: Timothy
+Student Address: 123 Test Lane
+
